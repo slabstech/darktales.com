@@ -11,7 +11,4 @@ codekit-config.json
 Gemfile.lock
 node_modules
 npm-debug.log*
-.idea/misc.xml
-.idea/modules.xml
-.idea/slabstech.github.io.iml
-.idea/vcs.xml
+.idea/
