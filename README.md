@@ -1,3 +1,5 @@
-# [Dark Tales](https://slabstech.com/darktales.com)
+# [Well Being](https://slabstech.com/wellbeing.com)
 
-Help Portal for Mental Health Issues
+Helpline with Guidance for navigating problems 
+
+Towards a world with Good mental health
