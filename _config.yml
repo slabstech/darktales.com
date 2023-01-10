@@ -16,10 +16,10 @@
 #theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "S Labs Tech"
-description: "Sustainable Ideas and Solutions"
+title: "Well Being"
+description: "Towards better mental health"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://slabstech.com/darktales.com
+url: https://slabstech.com/wellbeing.com
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -30,8 +30,6 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-twitter:
-  username: slabstech
 
 # Liquid
 liquid:
